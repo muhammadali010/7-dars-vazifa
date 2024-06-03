@@ -139,6 +139,42 @@
 //         break;
 
 //     default:
-// console.log("jicha uhlavong");
+// console.log("bunday vaqt mavjut emas");
 //         break;
 // }
+
+
+// 4chi masala
+// let number = prompt('raqam yozing');
+// while (true) {
+//     if (number.toLowerCase() == 5) {
+//         alert(number);
+//         break;
+//     } else {
+//         number = prompt('raqam yozing')
+//     }
+// }
+
+
+// 5chi masala
+//     let a = 20;
+//     let sum = 0;
+//     let i = 2;
+//     while (i <= a) {
+//         console.log(i);
+//         i += 2;
+//     }
+// }
+
+
+// 6chi masala
+// let soz = prompt('soz kiriting');
+
+//     while (true) {
+//         if (soz.toLowerCase() == "stop") {
+//             alert(soz);
+//             break;
+//         } else {
+//             soz = prompt('soz kiriting')
+//         }
+//     }
